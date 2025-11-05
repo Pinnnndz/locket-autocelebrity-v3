@@ -36,7 +36,7 @@ Chỉ mất 2 phút để bắt đầu!
 Nhấn vào nút đỏ khổng lồ bên dưới. Tampermonkey sẽ tự động mở ra để bạn cài đặt.
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Pinnnndz/locket-autoceleb/main/tampermonkey.user.js" style="text-decoration:none;">
+  <a href="https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-v3/main/tampermonkey.user.js" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/CÀI%20ĐẶT%20SCRIPT%20NGAY-Click%20Vào%20Đây-red?style=for-the-badge&logo=download" alt="Install Script">
   </a>
 </p>
