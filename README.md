@@ -103,15 +103,21 @@ Mọi ý tưởng, đóng góp mã nguồn (code) hoặc báo cáo lỗi đều 
 
 ### Cách Đóng Góp (Contributing):
 
-1.  **Fork** Repository này.
-2.  Tạo **Branch** mới (`git checkout -b feature/your-awesome-feature`).
-3.  **Commit** các thay đổi (`git commit -m 'feat: Added the new feature'`).
-4.  **Push** lên Branch đó.
-5.  Mở một **Pull Request (PR)** chi tiết.
+Nếu các bạn đang sử dụng mà gặp lỗi gì đó
+Hãy chụp màn hình lại
+Sau đó liên hệ cho tớ
+Tớ sẽ tìm và khắc phục lỗi đó ngay
 
 ### 📞 Hỗ Trợ
 
-Nếu gặp vấn đề không thể tự giải quyết, hãy mở một **Issue** mới với mô tả chi tiết nhất có thể.
+Nếu gặp vấn đề không thể tự giải quyết, hãy liên hệ cho tớ sớm nhất có thể nhé
+
+<p align="center">
+  <a href="https://www.facebook.com/hphuoc.2007">
+    <img src="https://img.shields.io/badge/NH%E1%BA%ACN%20H%E1%BB%96%20TR%E1%BB%A2-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Nhận Hỗ Trợ Facebook" />
+  </a>
+</p>
+
 
 ---
 
