@@ -11,5 +11,5 @@
 // @match        https://locket.binhake.dev/*
 // @run-at       document-idle
 // @grant        GM_addStyle
-// @icon         https://sf-static.upanhlaylink.com/img/image_20251102111a21dc979eb66b992f06f830ebf41f.jpg
+// @icon         https://sf-static.upanhlaylink.com/img/image_202511051afc91d4c3c0b7839244cd213d339a23.jpg
 // ==/UserScript==
