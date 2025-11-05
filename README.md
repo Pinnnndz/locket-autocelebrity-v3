@@ -5,7 +5,9 @@
 <br>
 
 <p align="center">
-  [![Install Userscript Now](https://img.shields.io/badge/TRI%E1%BB%82N%20KHAI%20USERSCRIPT-ONE%20CLICK%20INSTALL-007bff?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-v3/main/tampermonkey.user.js)
+  <a href="https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-v3/main/tampermonkey.user.js">
+    <img src="https://img.shields.io/badge/TRI%E1%BB%82N%20KHAI%20USERSCRIPT-ONE%20CLICK%20INSTALL-007bff?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="Install Userscript Now" />
+  </a>
 </p>
 
 <p align="center">
