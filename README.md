@@ -1,13 +1,19 @@
 # ✨ Locket Pro Automation 🤖
 
-## Tối Ưu Hóa Tác Vụ Locketbinhake, Đơn Giản & Thông Minh
+### Tối Ưu Hóa Tác Vụ Locketbinhake, Đơn Giản & Thông Minh
 
-[![Install Userscript Now](https://img.shields.io/badge/TRIỂN%20KHAI%20USERSCRIPT-ONE%20CLICK%20INSTALL-007bff?style=for-the-badge&logo=tampermonkey&logoColor=white&link=https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-v3/main/tampermonkey.user.js)](https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-v3/main/tampermonkey.user.js)
+<p align="center">
+  [![Install Userscript Now](https://img.shields.io/badge/TRI%E1%BB%82N%20KHAI%20USERSCRIPT-ONE%20CLICK%20INSTALL-007bff?style=for-the-badge&logo=tampermonkey&logoColor=white&link=https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-v3/main/tampermonkey.user.js)](https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-v3/main/tampermonkey.user.js)
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/Pinnnndz/locket-autocelebrity-v3?style=flat-square&label=Phi%C3%AAn%20b%E1%BA%A3n&color=red" alt="Version">
   <img src="https://img.shields.io/badge/Tr%E1%BA%A1ng%20th%C3%A1i-ONLILNE-success?style=flat-square&logo=power-automate&logoColor=white" alt="Status">
   <img src="https://img.shields.io/badge/Gi%E1%BA%A5y%20ph%C3%A9p-MIT-blue?style=flat-square" alt="License">
+</p>
+
+<p align="center">
+  
 </p>
 
 ---
@@ -39,7 +45,7 @@ Tampermonkey là trình quản lý không thể thiếu để chạy Userscript.
 
 ### 2️⃣ Cài Đặt Script: Locket Pro
 
-Nhấp vào nút cài đặt khổng lồ ở đầu trang hoặc nút bên dưới. Tampermonkey sẽ tự động mở tab cài đặt.
+Nhấp vào nút cài đặt ở trên hoặc nút bên dưới. Tampermonkey sẽ tự động mở tab cài đặt.
 <p align="center">
   <a href="https://raw.githubusercontent.com/Pinnnndz/locket-autocelebrity-v3/main/tampermonkey.user.js" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/C%C3%80I%20%C4%90%E1%BA%B6T%20USERSCRIPT-B%E1%BA%A4T%20%C4%90%E1%BA%A6U%20NGAY-8B0000?style=for-the-badge&logo=download&logoColor=white" alt="Install Script">
@@ -52,7 +58,7 @@ Nhấp vào nút cài đặt khổng lồ ở đầu trang hoặc nút bên dư�
 
 1.  Truy cập [Locketbinhake](https://locket.binhake.dev/).
 2.  Quan sát góc dưới bên phải màn hình để thấy Bảng điều khiển hiện đại.
-3.  Nhấn **"Bắt đầu Auto Celeb"**. Quá trình tự động hóa sẽ bắt đầu!
+3.  [cite_start]Nhấn **"Bắt đầu Auto Celeb"**[cite: 10]. Quá trình tự động hóa sẽ bắt đầu!
 
 ---
 
@@ -61,25 +67,25 @@ Nhấp vào nút cài đặt khổng lồ ở đầu trang hoặc nút bên dư�
 <details>
   <summary><strong>❓ Lỗi: Bảng điều khiển không hiển thị sau khi cài đặt.</strong></summary>
 
-  **Lý do:** Thường do thiếu quyền.
+  [cite_start]**Lý do:** Thường do thiếu quyền cho Tampermonkey[cite: 12].
   
   **Giải pháp nhanh:**
-  1.  Mở `chrome://extensions/`
+  1.  [cite_start]Mở trang quản lý tiện ích của Chrome[cite: 13].
   2.  Tìm Tampermonkey và **BẬT** (ON) 2 quyền:
       * `Cho phép tập lệnh của người dùng` (Allow User Scripts)
       * `Cho phép ở chế độ ẩn danh` (Allow in Incognito)
-  3.  Nhấn F5 (Tải lại) trang Locketbinhake.
+  3.  [cite_start]Tải lại (F5) trang Locketbinhake[cite: 14].
 </details>
 
 <details>
   <summary><strong>❓ Lỗi: Web bị treo hoặc dính Captcha khi dùng VPS nước ngoài.</strong></summary>
 
-  **Lý do:** Website hạn chế IP ngoài Việt Nam.
+  [cite_start]**Lý do:** Website có thể đang chặn hoặc hạn chế các địa chỉ IP không phải từ Việt Nam[cite: 15].
 
   **Giải pháp:**
-  * Sử dụng tiện ích VPN.
-  * Chuyển đổi vùng (location) về **Việt Nam**.
-  * **Gợi ý VPN:** [Urban VPN Proxy](https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=vi).
+  * [cite_start]Sử dụng tiện ích VPN và chuyển vùng (location) về **Việt Nam**[cite: 16].
+  * [cite_start]**Gợi ý VPN:** [Urban VPN Proxy](https://chromewebstore.google.com/detail/urban-vpn-proxy/eppiocemhmnlbhjplcgkofciiegomcon?hl=vi)[cite: 17].
+  * [cite_start]Sau khi cài VPN và bật IP Việt Nam, hãy F5 lại trang web[cite: 18].
 </details>
 
 ---
